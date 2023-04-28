@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "tchmi-toast-events", "tchmi-toast-events\tchmi-toast-events.hmiproj", "{6756A588-21C9-4321-88CF-4A3C52C39BB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6756A588-21C9-4321-88CF-4A3C52C39BB0}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{6756A588-21C9-4321-88CF-4A3C52C39BB0}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{6756A588-21C9-4321-88CF-4A3C52C39BB0}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{6756A588-21C9-4321-88CF-4A3C52C39BB0}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B784E9-A63A-41F2-9CF7-DA04E187E977}
+	EndGlobalSection
+EndGlobal
